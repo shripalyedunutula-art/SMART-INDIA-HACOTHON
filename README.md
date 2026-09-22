@@ -18,17 +18,4 @@ pip install matplotlib numpy
 python simulation.py
 ```
 
----
-
-### 3. How to Use the GitHub Link Tomorrow to Score High Marks
-Tomorrow, when you stand in front of the judges, do this:
-
-*   **Put the GitHub Link on your last slide:** Write it out in big text or generate a free QR code linking to your repository so the judges can scan it.
-*   **Say this exact line:** *"While we have an advanced conceptual animation, we have also initiated the actual open-source software development. Our core mathematical logic is live on GitHub, proving that our algorithmic path-planning equations successfully calculate evasive maneuvers in real-time."*
-
-This completely covers you for the "No physical prototype" issue because it shows you have started writing real, reviewable code! 
-
-<FollowUp>
-Do you know how to **generate a QR code** for your presentation slide, or do you need help **writing down the exact lines** your team members should say during the presentation?
-</FollowUp>
 
